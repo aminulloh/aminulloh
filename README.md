@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence for Multispectral Image Processing**
 
-- 👨‍💻 All of my projects are available at [aminulloh.github.io](aminulloh.github.io)
+- 👨‍💻 All of my projects are available at [aminulloh.github.io](https://aminulloh.github.io/)
 
 - 💬 Ask me about **Robotics and Computer Vision**
 
