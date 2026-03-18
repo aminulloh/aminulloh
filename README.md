@@ -1,27 +1,125 @@
-<h1 align="center">Hi 👋, I'm Luthfi Aminulloh</h1>
-<h3 align="center">A passionate computer vision and robotics engineer from Indonesia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulloh&label=Profile%20views&color=0e75b6&style=flat" alt="aminulloh" /> </p>
+<h1>Luthfi Aminulloh</h1>
 
-- 🔭 I’m currently working on **Portable Multispectral Camera**
-
-- 🌱 I’m currently learning **Artificial Intelligence for Multispectral Image Processing**
-
-- 👨‍💻 All of my projects are available at [aminulloh.github.io](https://aminulloh.github.io/)
-
-- 💬 Ask me about **Robotics and Computer Vision**
-
-- 📫 You can reach me on **luthfi.aminulloh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/luthfiaminulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luthfiaminulloh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luthfiaminulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthfiaminulloh" height="30" width="40" /></a>
+<p>
+  <a href="https://aminulloh.com"><img src="https://img.shields.io/badge/Website-aminulloh.com-0a66c2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/luthfiaminulloh"><img src="https://img.shields.io/badge/LinkedIn-luthfiaminulloh-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:luthfi@aminulloh.com"><img src="https://img.shields.io/badge/Email-luthfi@aminulloh.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p><b>Aftersales Head</b> · <a href="https://synland.com">Contemporary Synland Technology</a> · EV Researcher · Engineer</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulloh&show_icons=true&locale=en&layout=compact" alt="aminulloh" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aminulloh&show_icons=true&locale=en" alt="aminulloh" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminulloh&" alt="aminulloh" /></p>
+<!-- <p><i>Building the infrastructure layer for electric vehicle operations in Indonesia.</i></p> -->
+
+</div>
+
+---
+
+## What I'm Building
+
+Indonesia's EV commercial vehicle market is growing fast — and the aftersales & fleet operations layer is still largely unbuilt. I'm working on that.
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>EV Fleet Customer Portal</b></td>
+      <td>End-to-end fleet visibility for electric commercial vehicles — maintenance, telemetry, service history</td>
+    </tr>
+    <tr>
+      <td><b>EV Aftersales Platform</b></td>
+      <td>Operational backbone for EV service networks: technical documentation, service manuals, parts & lubricant procurement</td>
+    </tr>
+    <tr>
+      <td><b>Multilingual Service Docs</b></td>
+      <td>Docusaurus-based documentation platform <code>EN / ZH / ID</code> for electric dump truck platforms</td>
+    </tr>
+  </tbody>
+</table>
+
+> Built on a self-managed cloud-ready stack (AWS, Docker, PostgreSQL, InfluxDB, Grafana) — architected for multi-tenant SaaS from day one.
+
+---
+
+## Background
+
+5 years in the EV industry. 3 years as an EV researcher. Before that: robotics, multispectral imaging, and smart farming.
+
+That combination — hardware-level thinking, applied AI research, and real operational experience — is what I bring to every product I build.
+
+<details>
+<summary><b>Research & Education</b></summary>
+<br>
+
+**Research Engineer** — Robotics and Intelligent Systems Center (RoISC), PENS
+Portable multispectral camera systems · AI-driven image processing · Precision agriculture
+
+**M.Sc. Electrical Engineering** · PENS (2022)
+**B.Eng. Mechatronics Engineering** · PENS (2017)
+
+</details>
+
+---
+
+## Published Research
+
+1. **"Development of the Electric Bus Platform: Components Layout and Structural Analysis"**
+   *IEEE International Electronics Symposium (IES), 2023*
+
+2. **"Battery Sizing Calculation and Consideration for the Electric Apron Bus System"**
+   *IEEE ICOIACT, 2023*
+
+3. **"Feature Extraction of Tomato Growth Model Using Greenhouse Monitoring System"**
+   *IEEE International Electronics Symposium (IES), 2019*
+
+4. **"Optimum Lightweight Legs Structure Design Based on Critical Posture in A-FLoW Humanoid Robot"**
+   *Journal of Physics: Conference Series, IOP Publishing, 2018*
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>EV / Hardware</b></td>
+    <td>Embedded systems · ARM · Multispectral sensors · CAN bus</td>
+  </tr>
+  <tr>
+    <td><b>AI / Vision</b></td>
+    <td>OpenCV · PyTorch · TensorFlow · scikit-learn</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Python · C/C++ · PostgreSQL · InfluxDB · Bash</td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td>Docker · Linux · Nginx · Grafana · Git</td>
+  </tr>
+</table>
+
+---
+
+## Open To
+
+I'm looking for partners building in:
+
+- **EV fleet management or aftersales** — software, hardware, or operations
+- **Industrial IoT and vehicle telemetry** — especially commercial/logistics fleets
+- **AgriTech** — computer vision, multispectral sensing, precision agriculture
+
+If you're solving hard infrastructure problems in emerging markets, let's talk.
+
+---
+<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aminulloh&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminulloh&hide_border=true" alt="GitHub Streak" />
+</p>
+</div>
